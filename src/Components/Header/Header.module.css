@@ -3,5 +3,5 @@
     height: 10vh;
     display: grid;
     place-items: center;
-    background-image: linear-gradient(to right ,red , orange , red);
+    background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
 }
